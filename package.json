@@ -1,0 +1,9 @@
+{
+  "name": "node-compass-mixins",
+  "version": "0.0.0",
+  "description": "A port of Compass' style sheets.",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Richard Herrera",
+  "license": "MIT"
+}
