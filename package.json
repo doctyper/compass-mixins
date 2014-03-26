@@ -1,6 +1,6 @@
 {
   "name": "node-compass-mixins",
-  "version": "0.0.0",
+  "version": "v0.12.3",
   "description": "A port of Compass' style sheets.",
   "main": "index.js",
   "scripts": {},
